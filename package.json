@@ -2,6 +2,7 @@
   "name": "vite-project",
   "version": "0.0.0",
   "scripts": {
+    "start": "harp server --port 3000"
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
